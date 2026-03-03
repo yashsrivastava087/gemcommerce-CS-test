@@ -1,6 +1,6 @@
 # Gemcommerce cs-test Explanation + Live site
 
-This is a simple front‑end prototype. It uses **React** for building the user interface and **Vite** to run and bundle the code quickly. Styling comes from Tailwind CSS, which we load from a CDN so there’s no extra setup.
+This is a simple front‑end prototype. It uses **React** for building the user interface and **Vite** to run and bundle the code quickly. Styling comes from Tailwind CSS.
 
 ## Getting started
 
