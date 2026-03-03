@@ -28,9 +28,6 @@ The project is deployed on Vercel:
 
 ## Technical Explanation
 
-### What Was Built
-A single product page layout, matching the design from the test instructions. It isn’t a full application—just a static screen showing headings, text, icons, images, and buttons.
-
 ### How It Works (Plain Language)
 - The page is defined in a React component (`src/pages/ProductPage.jsx`). In React, components are like functions that return HTML; here we use JSX, which lets us write HTML-like syntax directly in JavaScript.
 - All icon and image files are stored locally in `src/icons` and imported at the top of the component. Each one is used in a standard `<img>` tag.
