@@ -26,7 +26,7 @@ The project is deployed on Vercel:
 - `src/pages/ProductPage.jsx` – placeholder for the Figma product page layout. The component uses React functional components, imports image assets, and assembles a responsive product layout with Tailwind CSS utilities.
 - Styling is applied with Tailwind utility classes; no additional CSS.
 
-## Technical Test 📦
+## Technical Explanation
 
 ### What Was Built
 A single product page layout, matching the design from the test instructions. It isn’t a full application—just a static screen showing headings, text, icons, images, and buttons.
